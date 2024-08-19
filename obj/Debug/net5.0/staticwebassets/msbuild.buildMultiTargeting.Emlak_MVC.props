@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Emlak_MVC.props" />
+</Project>
